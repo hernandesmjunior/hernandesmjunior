@@ -1,4 +1,6 @@
-### Hi there 👋
+# Oi, eu sou o Hernandes 👋
+
+Sou formado em Engenharia e em Administração e encontrei na área de dados uma ótima oportunidade para unir meus conhecimentos da área de exatas, da área de negócios e também a minha criatividade. Venho caminhando degrau por degrau na área de Business Intelligence, desde um simples entusiasta, passando a estagiário, até me tornar um analista, posição que ocupo hoje. Estudante assíduo, atualmente sou pós-graduando em Data Science e Analytics e uso meu LinkedIn para divulgar meus trabalhos durante essa caminhada e para agregar pessoas tão apaixonadas por Data Science quanto eu.
 
 <!--
 **hernandesmjunior/hernandesmjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
