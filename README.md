@@ -6,6 +6,18 @@ Aqui no Github, posto sobre: Python, R, Estatística, Web Scraping, Machine Lear
 
 Você pode me encontrar no [LinkedIn](http://linkedin.com/in/hernandesmjunior) e no [Medium](http://medium.com/jogandoosdados).
 
+## Data Science Projects:
+
+<strong><a href="https://github.com/hernandesmjunior/Rossmann-Previsao-Vendas" style="color:red;">1. Previsão de Vendas no Varejo - Caso Rossmann</a></strong>
+<br>
+<a href="https://github.com/hernandesmjunior/Rossmann-Previsao-Vendas">
+	<img src="https://raw.githubusercontent.com/hernandesmjunior/Rossmann-Previsao-Vendas/master/Images/Pharmacy.png" alt="drawing" align="right" width="25%"  height="120"/>
+</a>
+> <p>Projeto de previsão de venda das próximas seis semanas utilizando um modelo de Machine Learning supervisionado.</p>
+> <p>Skills utilizados: Entendimento do negócio, levantamento e validação de hipóteses, análise descritiva, visualização, tratamento e transformação dos dados, e modelos de Machine Learning.</p>
+<br>
+
+
 <!--
 **hernandesmjunior/hernandesmjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
